@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.41bbea8e.chunk.css",
+    "main.js": "/Portfolio/static/js/main.3076eee1.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.3076eee1.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.22d2c1c1.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.22d2c1c1.js.map",
+    "static/js/2.aa626b67.chunk.js": "/Portfolio/static/js/2.aa626b67.chunk.js",
+    "static/js/2.aa626b67.chunk.js.map": "/Portfolio/static/js/2.aa626b67.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.fe5420f33fe544af1e2ee0b2b88e1217.js": "/Portfolio/precache-manifest.fe5420f33fe544af1e2ee0b2b88e1217.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.41bbea8e.chunk.css.map": "/Portfolio/static/css/main.41bbea8e.chunk.css.map",
+    "static/media/Family.jpg": "/Portfolio/static/media/Family.fe418dc8.jpg",
+    "static/media/Game.PNG": "/Portfolio/static/media/Game.4de7ef40.PNG",
+    "static/media/Keith.png": "/Portfolio/static/media/Keith.ae67c224.png",
+    "static/media/Octocat.png": "/Portfolio/static/media/Octocat.0ba2aa20.png",
+    "static/media/PokemonApp.PNG": "/Portfolio/static/media/PokemonApp.0bb072ba.PNG",
+    "static/media/c++.png": "/Portfolio/static/media/c++.f278be79.png",
+    "static/media/cSharp.png": "/Portfolio/static/media/cSharp.e8460f0d.png",
+    "static/media/discord.png": "/Portfolio/static/media/discord.92bca4df.png",
+    "static/media/dnd.PNG": "/Portfolio/static/media/dnd.3090f898.PNG",
+    "static/media/goodmeal.PNG": "/Portfolio/static/media/goodmeal.093cae23.PNG",
+    "static/media/html-css-js-logos.png": "/Portfolio/static/media/html-css-js-logos.27e2f81f.png",
+    "static/media/mail.png": "/Portfolio/static/media/mail.702d5ee4.png",
+    "static/media/unity.png": "/Portfolio/static/media/unity.d8b9ecec.png",
+    "static/media/zbrush-logo.jpeg": "/Portfolio/static/media/zbrush-logo.0111dbc6.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22d2c1c1.js",
+    "static/js/2.aa626b67.chunk.js",
+    "static/css/main.41bbea8e.chunk.css",
+    "static/js/main.3076eee1.chunk.js"
+  ]
+}
