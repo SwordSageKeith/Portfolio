@@ -1,0 +1,70 @@
+
+.top{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 15px;;
+}
+
+#me{
+  width: 250px;
+  border-radius: 50%;
+}
+#name{
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 40px;
+}
+
+#name > h1{
+  font-family: 'Atomic Age', cursive;
+  font-size: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+body {
+  font-family: 'Josefin Sans', sans-serif; 
+  font-size: 20px;
+  line-height: 1.5;
+  background-color: #222831;
+}
+.good{
+  max-width: 90%;
+  margin: 10px;
+}
+
+.card{
+  display: block;
+  border-top: solid 3px #1F5673;
+}
+
+.buttons{
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 15px;
+}
+
+.link{
+  font-family: 'Josefin Sans', sans-serif; 
+  font-size: 25px;
+  width: 200px;
+  padding: 10px;
+  border: 2px solid #85C7F2;
+
+  border-radius: 10px;
+  
+  color: #222831;
+  background-color: #85C7F2;
+}
+
+.link:hover{
+  background-color: #1F5673;
+}
+
+@media only screen and (min-width: 900px) {
+  .card{
+    display: flex;
+    
+  }
+}
