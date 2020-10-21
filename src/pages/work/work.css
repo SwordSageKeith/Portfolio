@@ -1,0 +1,36 @@
+.work{
+    padding: 40px;
+    padding-top: 100px;
+    text-align: left;
+}
+
+.work h1{
+    padding: 0;
+    margin: 0;
+    text-decoration: underline;
+}
+
+.work img{
+    max-width: 50%;
+    padding: 20px;
+}
+
+.work p{
+    color: #EEEEEE;
+}
+
+.flex{
+    display: flex;
+}
+
+.noflex{
+    display: inline;
+}
+.nostyles{
+    max-width: none;
+    min-width: none;
+    margin: 0;
+    padding: 0;
+}
+
+

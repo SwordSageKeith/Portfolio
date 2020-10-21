@@ -16,7 +16,7 @@ class Header extends React.Component{
   }
 
   noteClick = () =>{
-    this.props.history.push('/notable')
+    this.props.history.push('/all')
   }
 
   otherClick = () =>{
@@ -27,9 +27,10 @@ class Header extends React.Component{
   render(){
     return (
       <header>
-        <button onClick={this.homeClick}>Home</button> | 
-        <button onClick={this.aboutClick}>About Me</button> | 
-        
+        <button className=" navi" onClick={this.homeClick}>Home</button> | 
+        <button className=" navi" onClick={this.aboutClick}>About Me</button> | 
+        <button className=" navi" onClick={this.noteClick}>All Work</button> | 
+        <button className=" navi" onClick={this.otherClick}>Other Work</button>  
       </header>
     )
   }
